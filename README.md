@@ -11,3 +11,5 @@
 1. Tarkista ettei sinun anti-virus estä sovellusta
 2. Tarkista ettei sinun asennus ole korruptoitunut
 3. Ota yhteyttä Deviin, jokuemailituskinonkäyttössä@gmail.com
+
+Tää on koulutyö, Tein tämän osan visual codella ja en mieluusti laittais kuvaa ittestäni tänne.
